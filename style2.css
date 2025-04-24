@@ -1,0 +1,11 @@
+
+div{
+   width: 200px;
+   height: 200px;
+   border: 5px solid cyan;
+   border-block: solid 5px cyan;
+box-shadow: 2px 2px 15px cyan,
+     1px 1px 15px cyan inset;
+   }
+
+ 
